@@ -11,3 +11,7 @@ Fast Scraper And Checker written in python
 - **Dynamic Console Updates**: Displays statistics like hits, taken emails, CPM (Checks Per Minute), and elapsed time in real time.
 
 - **Contact**: t.me/TonyQarri
+
+## Screen Shot
+
+![Screenshot](https://github.com/889r/TikTok-PullBot/blob/main/Screenshot%202025-01-17%2004-17-25.png)
